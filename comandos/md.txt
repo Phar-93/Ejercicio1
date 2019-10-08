@@ -1,0 +1,1 @@
+MD (Make Directory) sirve para crear un nuevo directorio. MD es un comando interno de cmd.exe que tiene la misma funcionalidad que MKDIR.
