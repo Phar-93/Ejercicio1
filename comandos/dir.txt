@@ -1,0 +1,1 @@
+dir ha existido como comando de DOS desde la terminal versión de MS-DOS. Forma parte del intérprete de comandos de DOS, mientras que el comando ls de UNIX es un programa independiente del intérprete de comandos.
