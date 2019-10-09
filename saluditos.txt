@@ -1,0 +1,8 @@
+feliz jalowin grupo
+<<<<<<< HEAD
+primer commit
+modificación desde local
+rama mod
+=======
+modificaciÃ³n desde el repositorio
+>>>>>>> 8e5bd73f00e70432aa52f44b4c9bc8e2ce661105
