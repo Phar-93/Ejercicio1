@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 El comando linux find es uno de los comandos linux más útiles que existen, sin embargo es también uno de los comandos que menos se conocen y que los usuarios
 “Merge con conflictos”.
+=======
+El comando linux find es uno de los comandos linux mÃ¡s Ãºtiles que existen, sin embargo es tambiÃ©n uno de los comandos que menos se conocen 
+>>>>>>> 4aa59e4e543671259ecc054d5cf17f5a5eb6228b

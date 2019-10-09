@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MD “Merge con conflictos”.(Make Directory) sirve para crear un nuevo directorio. MD es un comando interno de cmd.exe que tiene la misma funcionalidad que MKDIR.
+=======
+MD (Make Directory) sirve para crear un nuevo directorio. MD es un comando interno de cmd.exe que tiene la misma funcionalidad que 
+>>>>>>> 4aa59e4e543671259ecc054d5cf17f5a5eb6228b
